@@ -1,1 +1,1 @@
-This is the Django Project on Student Data
+This is the Student Project, which is done using Django
